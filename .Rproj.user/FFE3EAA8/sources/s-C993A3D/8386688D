@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2037752466",
+    "hash" : "0",
     "id" : "8386688D",
-    "lastKnownWriteTime" : 1558737085,
-    "last_content_update" : 1558737085,
+    "lastKnownWriteTime" : 1559152154,
+    "last_content_update" : 1559152154882,
     "path" : "D:/FIORELLA/DHI_2019/GIT/SPIDrought/R/SPIF.R",
     "project_path" : "R/SPIF.R",
     "properties" : {
+        "cursorPosition" : "18,21",
+        "scrollLine" : "0"
     },
     "read_only" : false,
     "read_only_alternatives" : [
