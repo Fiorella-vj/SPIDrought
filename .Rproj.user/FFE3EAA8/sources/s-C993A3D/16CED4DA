@@ -1,16 +1,16 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1559149103875.000,
+    "created" : 1559160469445.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3607571162",
-    "id" : "8386688D",
-    "lastKnownWriteTime" : 1559160843,
-    "last_content_update" : 1559160843164,
-    "path" : "D:/FIORELLA/DHI_2019/GIT/SPIDrought/R/SPIF.R",
-    "project_path" : "R/SPIF.R",
+    "hash" : "0",
+    "id" : "16CED4DA",
+    "lastKnownWriteTime" : 1559160848,
+    "last_content_update" : 1559160848,
+    "path" : "D:/FIORELLA/DHI_2019/GIT/SPIDrought/NAMESPACE",
+    "project_path" : "NAMESPACE",
     "properties" : {
         "cursorPosition" : "0,0",
         "scrollLine" : "0"
@@ -18,8 +18,8 @@
     "read_only" : false,
     "read_only_alternatives" : [
     ],
-    "relative_order" : 2,
+    "relative_order" : 4,
     "source_on_save" : false,
     "source_window" : "",
-    "type" : "r_source"
+    "type" : "r_namespace"
 }

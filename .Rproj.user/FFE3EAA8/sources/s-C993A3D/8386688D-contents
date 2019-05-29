@@ -1,5 +1,3 @@
-#' @import SCI
-#' @import xlsx
 #' @title SPI and Drought Events Characteristics
 #' @description This function allows to compute the Standarized Precipitation Index (SPI) based on an established. climatological period Esta es una funcion de ejemplo para multiplicar un valor o vector x por cuatro.
 #' @param data a zoo object with time ordered values of monthly precipitation.
@@ -8,6 +6,7 @@
 #' @param fin.clim optional, character date of ending point of the reference period used for computing the index (p.e. c("2010-12-01")). Defaults to NULL
 #' @param threshold optional, a negative integer value defining the threashold to use for drought events based on SPI series. Defaults to -1.
 #' @param distr distribution function to standarize data, could be: "gamma","gev" or "genlog". Default "gamma"
+#' @return the SPI index and drought characteristics: duration, severity, intensity and interarrival
 #' @details The fitSCI function allow computing the SPI index. Basically, the fitSCI function standardize the precipitation following a Gamma distribution function (i.e., they transform it to a standard Gaussian variate with zero mean and standard deviation of one).
 #' @examples
 #' SPIF(data,scale,ini.clim=NULL,fin.clim=NULL,threshold=NULL,distr="gamma")

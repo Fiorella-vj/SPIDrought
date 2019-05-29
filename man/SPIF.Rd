@@ -20,6 +20,9 @@ SPIF(data, scale, ini.clim = NULL, fin.clim = NULL, threshold = NULL,
 
 \item{distr}{distribution function to standarize data, could be: "gamma","gev" or "genlog". Default "gamma"}
 }
+\value{
+the SPI index and drought characteristics: duration, severity, intensity and interarrival
+}
 \description{
 This function allows to compute the Standarized Precipitation Index (SPI) based on an established. climatological period Esta es una funcion de ejemplo para multiplicar un valor o vector x por cuatro.
 }
