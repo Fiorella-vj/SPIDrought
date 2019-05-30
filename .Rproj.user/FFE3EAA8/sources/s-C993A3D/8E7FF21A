@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1559233516740.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1432292648",
+    "id" : "8E7FF21A",
+    "lastKnownWriteTime" : 1559233516,
+    "last_content_update" : 1559233516,
+    "path" : "D:/FIORELLA/DHI_2019/GIT/SPIDrought/data-raw/DATASET.R",
+    "project_path" : "data-raw/DATASET.R",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

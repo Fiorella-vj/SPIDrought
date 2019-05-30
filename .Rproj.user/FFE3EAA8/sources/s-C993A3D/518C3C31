@@ -1,18 +1,18 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1559160469445.000,
+    "created" : 1559233860696.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
     "hash" : "0",
-    "id" : "16CED4DA",
-    "lastKnownWriteTime" : 1559160848,
-    "last_content_update" : 1559160848,
-    "path" : "D:/FIORELLA/DHI_2019/GIT/SPIDrought/NAMESPACE",
-    "project_path" : "NAMESPACE",
+    "id" : "518C3C31",
+    "lastKnownWriteTime" : 1558732824,
+    "last_content_update" : 1558732824,
+    "path" : "D:/FIORELLA/DHI_2019/GIT/SPIDrought/data-raw/save_data.R",
+    "project_path" : "data-raw/save_data.R",
     "properties" : {
-        "cursorPosition" : "0,0",
+        "cursorPosition" : "3,0",
         "scrollLine" : "0"
     },
     "read_only" : false,
@@ -21,5 +21,5 @@
     "relative_order" : 4,
     "source_on_save" : false,
     "source_window" : "",
-    "type" : "r_namespace"
+    "type" : "r_source"
 }
