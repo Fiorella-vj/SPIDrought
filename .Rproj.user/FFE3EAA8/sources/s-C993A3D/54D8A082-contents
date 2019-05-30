@@ -3,9 +3,7 @@
 #Cargamos la data de ejemplo
 data("data", package="SPIDrought")
 
-
-
-SPIF(data,scale,ini.clim=NULL,fin.clim=NULL,threshold=NULL,distr="gamma")
+SPIF(data,scale=3,ini.clim=NULL,fin.clim=NULL,threshold=NULL,distr="gamma")
 
 str(data)
 plot(data[,2])
