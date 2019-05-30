@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3920630657",
+    "hash" : "0",
     "id" : "3BA004CE",
-    "lastKnownWriteTime" : 1559148847,
-    "last_content_update" : 1559148847,
+    "lastKnownWriteTime" : 1559237021,
+    "last_content_update" : 1559237021677,
     "path" : "D:/FIORELLA/DHI_2019/GIT/SPIDrought/R/hello.R",
     "project_path" : "R/hello.R",
     "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0"
     },
     "read_only" : false,
     "read_only_alternatives" : [
