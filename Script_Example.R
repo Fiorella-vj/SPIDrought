@@ -1,5 +1,9 @@
 #Use of SPIDrought package
-#
+#libraries
+ifelse(!require(SCI),install.packages("SCI"),library(SCI))
+ifelse(!require(xlsx),install.packages("xlsx"),library(xlsx))
+ifelse(!require(zoo),install.packages("zoo"),library(zoo))
+
 # Define working directory -----------------------------------------------------
 dir=getwd()
 setwd(dir)
