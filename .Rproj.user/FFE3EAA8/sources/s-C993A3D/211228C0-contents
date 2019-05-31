@@ -19,8 +19,8 @@ SPIF<-function(data,scale,ini.clim=NULL,fin.clim=NULL,threshold=NULL,distr="gamm
   } | {
     is.null(fin.clim)
   }) {
-    ini.clim <- index(data)[1]
-    fin.clim <- index(data)[nrow(data)]
+    ini.clim <- zoo::index(data)[1]
+    fin.clim <- zoo::index(data)[nrow(data)]
   }
 
   if (!is.null(distr)) {
