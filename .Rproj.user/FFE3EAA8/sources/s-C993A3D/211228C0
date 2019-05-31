@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1559242809715.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "211228C0",
+    "lastKnownWriteTime" : 1559160843,
+    "last_content_update" : 1559160843,
+    "path" : "D:/FIORELLA/DHI_2019/GIT/SPIDrought/R/SPIF.R",
+    "project_path" : "R/SPIF.R",
+    "properties" : {
+        "cursorPosition" : "17,21",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
